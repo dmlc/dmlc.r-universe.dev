@@ -4,5 +4,11 @@
     "url": "https://github.com/dmlc/xgboost.git",
     "branch" : "release_3.0.0",
     "subdir": "R-package"
+  },
+  {
+    "package": "xgboost",
+    "url": "https://github.com/dmlc/xgboost.git",
+    "branch" : "master",
+    "subdir": "R-package"
   }
 ]

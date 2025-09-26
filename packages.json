@@ -2,7 +2,7 @@
   {
     "package": "xgboost",
     "url": "https://github.com/dmlc/xgboost.git",
-    "branch" : "release_3.0.0",
+    "branch" : "release_3.1.0",
     "subdir": "R-package"
   }
 ]
